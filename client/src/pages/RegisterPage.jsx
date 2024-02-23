@@ -1,3 +1,4 @@
+// Hello, try
 import React, { useState } from 'react'
 import "../styles/Register.scss"
 const RegisterPage = () => {
