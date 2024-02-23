@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react'
 import "../styles/Register.scss"
 
@@ -21,37 +20,6 @@ const RegisterPage = () => {
     })
   }
   // console.log(formData)
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   return (
     <div className='register'>
       <div className='register_content'>
